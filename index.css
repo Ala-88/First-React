@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&display=swap');
+
+h1 {
+  color: #eac665;
+    font-size: 90px;
+    text-align:center;
+    font-family: 'Mea Culpa', cursive;
+}
+
+h2{
+  color: #eac665;
+  font-size: 40px;
+  font-family:'Times New Roman';
+}
+
+h5{
+  color: #eac665;
+  font-size: 20px;
+  font-family:'Times New Roman';
+}
